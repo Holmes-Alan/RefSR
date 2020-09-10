@@ -21,7 +21,7 @@ The paper can be found in [IEEE](https://ieeexplore.ieee.org/abstract/document/8
 
 • We firstly propose a Single Image Super-Resolution via conditional Variational AutoEncoder (SISR-VAE) 
 
-• we further propose a Reference based face SR via conditional Variational AutoEncoder (RefSR-VAE) to resolve face SR with large up-scaling factors. 
+• We further propose a Reference based face SR via conditional Variational AutoEncoder (RefSR-VAE) to resolve face SR with large up-scaling factors. 
 
 • Finally, we will introduce a new Reference based (RefSR-Face) dataset for the SR of face images for training and testing. 
 
@@ -47,6 +47,11 @@ You can download the dataset from the
 # Implementation
 You can download the pre-trained models from
 
+For RefSR-VAE, 
+run RefSR_VAE.ipynb
+
+For SISR-VAE,
+run VAE-SR.ipynv
 
 # Visual Comparison
 
