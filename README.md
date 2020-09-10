@@ -31,3 +31,20 @@ The paper can be found in [IEEE](https://ieeexplore.ieee.org/abstract/document/8
     CAFE
     NVIDIA GPU + CUDA
     MATLAB 6.0 or above
+
+# Complete Architecture
+The complete architecture is shown as follows,
+
+![structure](/figure/fig3.png)
+
+# Visual Comparison
+
+## compare with state-of-the-art
+This figure shows the comparison among different face SR algorithms on RefSR dataset
+![figure1](/figure/compare_1.PNG)
+
+## compare with state-of-the-art
+This figure shows the facial identity transfer on RefSR dataset
+![figure1](/figure/compare_1.PNG)
+
+Please check the paper for more quantitative and qualitative comparison on different datasets
