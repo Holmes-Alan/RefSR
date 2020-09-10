@@ -8,7 +8,7 @@ The paper can be found in [IEEE](https://ieeexplore.ieee.org/abstract/document/8
 
 # BibTex
        @ARTICLE{8792098,  
-               author={Z. {Liu} and W. {Siu} and Y. {Chan}},  
+              author={Z. {Liu} and W. {Siu} and Y. {Chan}},  
               journal={IEEE Access},   
               title={Reference Based Face Super-Resolution},   
               year={2019},  
