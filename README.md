@@ -66,4 +66,4 @@ This figure shows the comparison among different face SR algorithms on RefSR dat
 This figure shows the facial identity transfer on RefSR dataset
 ![figure2](/figures/compare_2.PNG)
 
-Please check the paper for more quantitative and qualitative comparison on different datasets
+Please cite our paper for using our dataset or models.
