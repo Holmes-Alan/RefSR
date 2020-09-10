@@ -38,7 +38,7 @@ The complete architecture is shown as follows,
 ![structure](/figures/fig3.png)
 
 # Dataset
-We propose a Reference based face SR dataset. It is modified from VGGFace2. The target is to collect facial images across different sex, races and so on. Each identity should include several facial images with various poses, ages, emotions and so on. We obtain a training dataset containing 428 identities for development. Each identity includes 2~30 images. And a testing dataset also contains 428 identities. Each identity includes 1~4 images with very different appearance to the reference image. We show some examples in the following figure.
+We propose a Reference based face SR dataset. It is modified from VGGFace2. The target is to collect facial images across different sex, races and so on. Each identity should include several facial images with various poses, ages, emotions and so on. We obtain a training dataset containing 428 identities for development. Each identity includes 2\~30 images. And a testing dataset also contains 428 identities. Each identity includes 1\~4 images with very different appearance to the reference image. We show some examples in the following figure.
 
 ![sample](/figures/sample.PNG)
 
