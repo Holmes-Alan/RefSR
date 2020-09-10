@@ -17,7 +17,7 @@ The paper can be found in [IEEE](https://ieeexplore.ieee.org/abstract/document/8
               pages={129112-129126},
        }
         
-# For proposed RefSR-VAE model, we claim the following points:
+# Key points:
 
 • We firstly propose a Single Image Super-Resolution via conditional Variational AutoEncoder (SISR-VAE) 
 
@@ -63,6 +63,6 @@ This figure shows the comparison among different face SR algorithms on RefSR dat
 
 ## compare with state-of-the-art
 This figure shows the facial identity transfer on RefSR dataset
-![figure1](/figures/compare_2.PNG)
+![figure2](/figures/compare_2.PNG)
 
 Please check the paper for more quantitative and qualitative comparison on different datasets
